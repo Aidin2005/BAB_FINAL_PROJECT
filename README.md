@@ -46,7 +46,7 @@ These features form the foundation of a functional and organized library system,
 ### Turdukulov Aidin
 
 ## Roles of Group Members:
-Turdukulov Aidin – Lead Developer & Backend Specialist
+Momunov Bektur – Lead Developer & Backend Specialist
 Responsibilities:
 Design and implement the core backend logic for the Library System, including book management (add, edit, delete) and day-to-day operations (rent/retrieve tracking).
 
@@ -60,7 +60,7 @@ Coordinate with team members to integrate frontend and backend components.
 
 Focus: Backend functionality, database management, and system architecture.
 
-Momunov Bektur – Frontend Developer & UI/UX Designer
+Turdukulov Aidin– Frontend Developer & UI/UX Designer
 Responsibilities:
 Create a user-friendly interface for all system features, including book search, user management, and settings for categories/authors/publishers.
 
