@@ -40,4 +40,56 @@ Manage Authors & Publishers: Allow admins to maintain accurate author and publis
 
 These features form the foundation of a functional and organized library system, balancing ease of use with efficiency for both administrators and users.
 
+## Team Members List: 
+### Momunov Bektur
+### Duishaliev Beksultan
+### Turdukulov Aidin
+
+## Roles of Group Members:
+Turdukulov Aidin – Lead Developer & Backend Specialist
+Responsibilities:
+Design and implement the core backend logic for the Library System, including book management (add, edit, delete) and day-to-day operations (rent/retrieve tracking).
+
+Develop and maintain the database structure for books, users, categories, authors, and publishers.
+
+Ensure secure user authentication (login/signup) with proper password handling.
+
+Write clean, modular, and well-documented code following OOP principles.
+
+Coordinate with team members to integrate frontend and backend components.
+
+Focus: Backend functionality, database management, and system architecture.
+
+Momunov Bektur – Frontend Developer & UI/UX Designer
+Responsibilities:
+Create a user-friendly interface for all system features, including book search, user management, and settings for categories/authors/publishers.
+
+Implement the search functionality UI, ensuring intuitive navigation and responsive design.
+
+Design and test interactive elements for adding, editing, and deleting books or user records.
+
+Collaborate with the backend specialist to connect the frontend with backend APIs or functions.
+
+Gather feedback on usability and refine the interface accordingly.
+
+Focus: User interface, user experience, and frontend development.
+
+Duishaliev Beksultan – Data Analyst & Report Specialist
+Responsibilities:
+Develop the reporting module to generate Excel-based reports (e.g., rental history, book inventory).
+
+Manage settings for categories, authors, and publishers, ensuring accurate metadata organization.
+
+Test the system’s functionality to ensure data consistency across operations (e.g., book rentals, user records).
+
+Document system workflows and create user guides for administrators and end-users.
+
+Assist in debugging and quality assurance to ensure all features work as intended.
+
+Focus: Reporting, data management, testing, and documentation.
+
+##
+
+
+
 
