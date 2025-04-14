@@ -90,8 +90,15 @@ Focus: Reporting, data management, testing, and documentation.
 
 ##  UML:![2025-04-14 7 19 45 AM](https://github.com/user-attachments/assets/6f17bbc6-5510-4ea2-af39-aad3fa8983ac)
 
+## Screanshoots:
 
+<img width="1440" alt="Screenshot 2025-04-13 at 9 34 36 PM" src="https://github.com/user-attachments/assets/2f2c44d8-0e6c-4131-ad8f-4113299f72dc" />
 
+<img width="1440" alt="Screenshot 2025-04-13 at 9 34 44 PM" src="https://github.com/user-attachments/assets/1ff36443-80cd-4ea1-b32f-3b45b6ba2f17" />
+
+<img width="1440" alt="Screenshot 2025-04-13 at 9 34 51 PM" src="https://github.com/user-attachments/assets/69ff6a4d-bc44-4d57-ac05-666f23d6f835" />
+
+<img width="1440" alt="Screenshot 2025-04-13 at 9 34 57 PM" src="https://github.com/user-attachments/assets/496e1e63-82cf-49e8-ae40-a1c7975ebdfb" />
 
 
 
